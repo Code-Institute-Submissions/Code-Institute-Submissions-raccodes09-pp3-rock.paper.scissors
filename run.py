@@ -2,7 +2,7 @@ import random
 
 def get_user_choice():
     while True:
-        user_choice = input("Enter your choice (rock, paper, or scissors): ").lower()
+        user_choice = input("Choose rock, paper, or scissors: ").lower()
         if user_choice in ["rock", "paper", "scissors"]:
             return user_choice
         else:
@@ -51,9 +51,9 @@ def main():
         print(f"Score - {username}: {user_score} | Computer: {computer_score}")
     
     if user_score >= winning_score:
-        print(f"Congratulations, {username}! You won the game with a score of {user_score}-{computer_score}.")
+        print(f"Congratulations, {username}! You won! {user_score}-{computer_score}.")
     else:
-        print(f"Computer wins the game with a score of {computer_score}-{user_score}.")
+        print(f"Computer wins the game! {computer_score}-{user_score}.")
 
     play_again = input("Play again? (yes/no): ").lower()
     if play_again == "yes":
