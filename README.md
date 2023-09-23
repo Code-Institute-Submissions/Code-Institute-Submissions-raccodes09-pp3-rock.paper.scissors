@@ -128,9 +128,9 @@ The project was deployed to Heroku using the following steps:
 
 ### Content
 
-- Code from social media links was taken from CI Love Running project.
+- Code Institute LMS and practice project - Love Sandwiches.
 
-- [Youtube](https://www.youtube.com/) Further learing and understanding of Python.
+- [Youtube](https://www.youtube.com/) Further learning and understanding of Python.
 
 - [W3Schools](https://www.w3schools.com/) Information on loop structures.
 
