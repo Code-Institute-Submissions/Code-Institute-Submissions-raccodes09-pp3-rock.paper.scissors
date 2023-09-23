@@ -14,15 +14,15 @@ def get_computer_choice():
 
 def determine_winner(user_choice, computer_choice):
     if user_choice == computer_choice:
-        return "It's a tie!"
+        return "Great minds think alike - It's a tie!"
     elif (
         (user_choice == "rock" and computer_choice == "scissors") or
         (user_choice == "scissors" and computer_choice == "paper") or
         (user_choice == "paper" and computer_choice == "rock")
     ):
-        return "You win!"
+        return "Hmm... lucky - You win!"
     else:
-        return "Computer wins!"
+        return "Haaa... I'm the best - Computer wins!"
 
 def main():
     print("Welcome to Rock, Paper, Scissors!")
