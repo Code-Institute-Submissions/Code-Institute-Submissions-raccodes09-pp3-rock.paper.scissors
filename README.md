@@ -142,7 +142,6 @@ The project was deployed to Heroku using the following steps:
 
 - Deployment section of README.md provided by a combination of CI's template and advise from users on slack.
 
-- 
 
 ### Media
 
