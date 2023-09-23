@@ -47,9 +47,9 @@ def main():
         result = determine_winner(user_choice, computer_choice)
         print(result)
         
-        if result == "You win!":
+        if result == "Arrgh... You win!":
             user_score += 1
-        elif result == "Computer wins!":
+        elif result == "Haa.... I win!":
             computer_score += 1
         
         print(f"Score - {username}: {user_score} | Computer: {computer_score}")
