@@ -48,17 +48,17 @@ Using Lucidchart I was able to design my game before building it. It allowed me 
 - Once the score has reached three, message will appear advising the winner
 - User will be asked if they want to play again.
 
-#### Login Page
+#### Welcome 
 
-![Mockup image](/assets/testing/readme-images/login-image.png)
+![Mockup image](/assets/images/welcome.png)
 
-#### Question Page
+#### First Selection
 
-![Mockup image](/assets/testing/readme-images/questions-image.png)
+![Mockup image](/assets/images/first.selection.png)
 
 #### Result Page
 
-![Mockup image](/assets/testing/readme-images/results-image.png)
+![Mockup image](/assets)
 
 ## Technologies Used
 
@@ -69,6 +69,8 @@ Using Lucidchart I was able to design my game before building it. It allowed me 
 - CSS3
 
 - JavaScript
+
+- Python
 
 ### Frameworks, Libraries & Other Resources
 
@@ -85,13 +87,8 @@ Using Lucidchart I was able to design my game before building it. It allowed me 
     - GitHub used to store the code whoch was pushed from Git.
 
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to design the wireframes
+    - Lucidchart was used to design the wireframes
 
-1. [Chrome DevTools:](https://developer.chrome.com/docs/devtools/)
-    - Chrome DevTools used to check the site in terms of responsivity, amending code and trying various styles. The Lighthouse feature was used to test performance.
-
-1. [Am I Repsonsive:](https://ui.dev/amiresponsive)
-    - Am I repsonive used to check responsivity across all devices.
 
 
 ## Validator Testing
