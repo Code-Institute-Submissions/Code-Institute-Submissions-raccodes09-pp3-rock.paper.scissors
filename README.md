@@ -78,7 +78,7 @@ Using Lucidchart I was able to design my game before building it. It allowed me 
 
 [CI Python Linter](https://pep8ci.herokuapp.com/) was used to check Python code.
 
-    - [PYTHON](/assets/testing/validation-pdf/html-validation.pdf)
+    - [PYTHON](/assets/images/python.valid.png)
 
 #### No Validation testing was carried out on HTML / JavaScript as no changes made to template
 
