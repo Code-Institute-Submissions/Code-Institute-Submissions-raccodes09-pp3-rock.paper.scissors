@@ -130,6 +130,8 @@ The project was deployed to Heroku using the following steps:
 
 - Code Institute LMS and practice project - Love Sandwiches.
 
+- [FreeCodeCamp](https://www.freecodecamp.org/) Inspiration for a Python project.
+
 - [Youtube](https://www.youtube.com/) Further learning and understanding of Python.
 
 - [W3Schools](https://www.w3schools.com/) Information on loop structures.
@@ -139,6 +141,8 @@ The project was deployed to Heroku using the following steps:
 - [Geek for Geeks](https://www.geeksforgeeks.org/) Also assisted with score counter.
 
 - Deployment section of README.md provided by a combination of CI's template and advise from users on slack.
+
+- 
 
 ### Media
 
